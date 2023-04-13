@@ -5,4 +5,4 @@ Phase 3 오프라인 해커톤 (1박2일) : 1132rows * 3331cols 디스플레이 
 
 Chain : StackingRegressor(Linear) -> StackingClassifier(OneVsRest)
 
-f1 macro 0.769 -> 0.790 으로 개선
+f1 macro 0.769 -> 0.790 로 개선
